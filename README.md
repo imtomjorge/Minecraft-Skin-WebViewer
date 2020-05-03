@@ -1,6 +1,6 @@
 # Minecraft Skin Viewer - JS Version
 
-Minecraft Skin WebViewer is an opensource tool developed in Javascript, to display your any Minecraft Skin on a web page, with a basic input zone. This tool is created in order to work with any HTML/PHP page, and can be used everywhere in self-hosted version, or with a ready to use JS file.`ù
+Minecraft Skin WebViewer is an opensource tool developed in Javascript, to display your any Minecraft Skin on a web page, with a basic input zone. This tool is created in order to work with any HTML/PHP page, and can be used everywhere in self-hosted version, or with a ready to use JS file.
 
 ![screenshot-region-pingability](https://www.zupimages.net/up/20/18/kv35.png)
 
