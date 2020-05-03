@@ -6,7 +6,7 @@ Minecraft Skin WebViewer is an opensource tool developed in Javascript, to displ
 
 If you're looking to host this app, or many other, you can look at [Scaleway](https://scaleway.com).
 
-Please note that if Minotar API is down, this script will not work.
+> Please note that if Minotar API is down, this script will not work.
 
 
 ## Different skins views 
