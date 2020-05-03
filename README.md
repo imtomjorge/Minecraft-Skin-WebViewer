@@ -29,20 +29,25 @@ This tool is based on an Minecraft Skin non-official API, called [Minotar](https
 For each size skin view (exept full skin, ID=7), you can define a width in pixels.
 By default, this value is set to 100px. You can easily modify it to any other value.
 
+## Prequisites
+
+In order to make this script working, you will have to put 2 elements on your HTML/PHP page.
+-Please create an input with the id ```user+ID```  and add an image with the id ```img+ID```.
+> Please replace the ID by the wished view. 
+Eg. ```user+3``` for the third view.
+
 ## CDN Version - Recommended for new users
 
 You can use this version to avoid hosting the script, and save some minutes.
 We currently have 2 active CDN:
 
-Please replace ```ID``` per the wished ID.
+-Scaleway CDN: ```https://tjorge.scw.cloud/pub/minecraft-skin-viewer-latest.js``` 
 
--Scaleway CDN: ```https://tjorge.scw.cloud/pub/minecraft-skin-viewerID.js``` 
-
--Github CDN: ```https://tjorge.scw.cloud/pub/minecraft-skin-viewerID.js```
+-Github CDN: ```https://tjorge.scw.cloud/pub/minecraft-skin-viewer-latest.js```
 
 ## Self Hosted Version - Recommended for advanced users
 
-As this tool is created in JavaScript, you will need to host this file on your server, to use it, by just uploading it. Once it's done, please create an input with the id ```user```  and add an image with the id ```msv-js```.
+As this tool is created in JavaScript, you will need to host this file on your server, to use it, by just uploading it.
 Don't forget to add the JavaScript file reference to your web page.
 
 ## Contributing
