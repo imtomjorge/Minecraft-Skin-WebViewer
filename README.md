@@ -32,9 +32,10 @@ By default, this value is set to 100px. You can easily modify it to any other va
 ## Prequisites
 
 In order to make this script working, you will have to put 2 elements on your HTML/PHP page.
--Please create an input with the id ```user+ID```  and add an image with the id ```img+ID```.
+
+-Please create an input with the id ```user-ID```  and add an image with the id ```img-ID```.
 > Please replace the ID by the wished view. 
-Eg. ```user+3``` for the third view.
+Eg. ```user-3``` for the third view.
 
 ## CDN Version - Recommended for new users
 
