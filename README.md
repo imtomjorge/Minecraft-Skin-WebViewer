@@ -44,7 +44,7 @@ We currently have 2 active CDN:
 
 -Scaleway CDN: ```https://tjorge.scw.cloud/pub/minecraft-skin-viewer-latest.js``` 
 
--Github CDN: ```https://tjorge.scw.cloud/pub/minecraft-skin-viewer-latest.js```
+-Github CDN: ```https://raw.githubusercontent.com/tjorge-scw/Minecraft-Skin-WebViewer/master/minecraft-skin-viewer-latest.js```
 
 ## Self Hosted Version - Recommended for advanced users
 
