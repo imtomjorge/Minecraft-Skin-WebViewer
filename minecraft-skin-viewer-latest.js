@@ -1,3 +1,6 @@
+// Minecraft Skin WebViewer - 2020 - Copyright 
+// https://github.com/tjorge-scw/Minecraft-Skin-WebViewer
+
 // View 1 - Basic head
 
 const input1 = document.getElementById('user-1');
