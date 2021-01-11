@@ -41,7 +41,7 @@ Eg. ```user-3``` for the third view.
 
 You can use this version to avoid hosting the script, and save some minutes.
 
--Github CDN: ```https://raw.githubusercontent.com/tjorge-scw/Minecraft-Skin-WebViewer/master/minecraft-skin-viewer-latest.js```
+-Github CDN: ```https://raw.githubusercontent.com/imtomjorge/Minecraft-Skin-WebViewer/master/minecraft-skin-viewer-latest.js```
 
 ## Self Hosted Version - Recommended for advanced users
 
